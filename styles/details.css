@@ -1,0 +1,16 @@
+.details {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.detail--column {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    padding: 0.5rem 4rem;
+    border: 1px dotted rgb(61, 129, 196);
+}
+
+.pairings {
+    padding: 1rem 5rem;
+}
+
