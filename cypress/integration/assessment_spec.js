@@ -1,6 +1,6 @@
 describe('Test the children output', () => {
     it('Contains the children', () => {
-        cy.visit('http://localhost:8080')
+        cy.visit('http://localhost:3000')
 
         cy.get(".details__kids").contains("Christan Swindles")
         cy.get(".details__kids").contains("Findlay Dumini")
