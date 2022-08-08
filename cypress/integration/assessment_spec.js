@@ -22,7 +22,7 @@ describe('Test the children output', () => {
     })
 
     it('Alerts a child\'s wish when clicked', () => {
-        cy.visit('http://localhost:8080')
+        cy.visit('http://localhost:3000')
 
         const child = cy.get(".details__kids").contains("Elisha Betchley")
 
@@ -38,7 +38,7 @@ describe('Test the children output', () => {
 
 describe('Test the celebrity output', () => {
     it('Contains the celebrity', () => {
-        cy.visit('http://localhost:8080')
+        cy.visit('http://localhost:3000')
 
         cy.get(".details__celebrities").contains("Alphonse Meron")
         cy.get(".details__celebrities").contains("Damara Pentecust")
@@ -60,7 +60,7 @@ describe('Test the celebrity output', () => {
     })
 
     it('Alerts a child\'s wish when clicked', () => {
-        cy.visit('http://localhost:8080')
+        cy.visit('http://localhost:3000')
 
         const child = cy.get(".details__celebrities").contains("Alphonse Meron")
 
