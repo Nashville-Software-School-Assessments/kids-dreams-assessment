@@ -6,7 +6,13 @@ export const Celebrities = () => {
     let html = "<ol>"
 
     for (const star of celebrities) {
-        html += `<li id="star--${celebrity.id}">${celebrity.name}</li>`
+        html += `<li 
+                    data-id="${celebrity.id}" 
+                    data-type="celebrity"
+                    data-sport="${celebrty.sport}"
+                    id="star--${celebrity.id}">
+                    ${celebrity.name}
+                </li>`
     }
 
     html += "</ol>"
