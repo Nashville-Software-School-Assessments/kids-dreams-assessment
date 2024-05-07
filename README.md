@@ -1,8 +1,8 @@
 # Events and Debugging Assessment
 
-Time to assess how well you have learned to use the debugging tools in Chrome Dev Tools, and writing click event listeners.
+Time to assess how well you have learned to use the debugging tools in Chrome Dev Tools, and writing click event listeners. This application is to show kids with illnesses and the memories the would like to make. Celebrities sign up to help kids make memories.
 
-This application is to show kids with illnesses and the memories the would like to make. Celebrities sign up to help kids make memories.
+> 🧨 Make sure you answer the vocabulary and understanding questions at the end of this document before notifying your coaches that you are done with the project
 
 ## Event Listeners to Create
 
@@ -35,6 +35,10 @@ Make sure your Developer Tools are open at all times while working on this proje
 Before you click the "Complete Assessment" button on the Learning Platform, add your answers below each question and make a commit.
 
 1. When a child is clicked on in the browser, which module contains the code that will execute on that event happening? Can you explain the algorithm of that logic?
+   > Your answer here
 2. In the **Pairings** module, why must the `findCelebrityMatch()` function be invoked inside the `for..of` loop that iterates the kids array?
+   > Your answer here
 3. In the **CelebrityList** module, can you describe how the name of the sport that the celebrity plays can be displayed in the window alert text?
+   > Your answer here
 4. Can you describe, in detail, the algorithm that is in the `main` module?
+   > Your answer here
