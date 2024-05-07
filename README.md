@@ -30,10 +30,11 @@ Your instruction team will provide a link for you to create your assessment repo
 
 Make sure your Developer Tools are open at all times while working on this project. Use the messages provided in the Console to determine what code needs to be fixed or implemented, and use breakpoints in the Sources tab to step through your code as you debug.
 
-## Deep Learning
+## Vocabulary and Understanding
 
-Another reminder from the instruction team. This is NOT A TEST. We are not looking for 100% completion, although if you can make it work completely, then huzzah for you.
+Before you click the "Complete Assessment" button on the Learning Platform, add your answers below each question and make a commit.
 
-What we are looking for is analytical thinking, algorithmic thinking, and efficient learning techniques to bind the concepts together for a solution, and communication with your teammates and instruction team.
-
-If you only get 50% of it complete, but display the above Core Skills and can demonstrate understanding of the fundamental code concepts, then you are learning and growing - which is what we care about.
+1. When a child is clicked on in the browser, which module contains the code that will execute on that event happening? Can you explain the algorithm of that logic?
+2. In the **Pairings** module, why must the `findCelebrityMatch()` function be invoked inside the `for..of` loop that iterates the kids array?
+3. In the **CelebrityList** module, can you describe how the name of the sport that the celebrity plays can be displayed in the window alert text?
+4. Can you describe, in detail, the algorithm that is in the `main` module?
