@@ -15,7 +15,7 @@ Time to assess how well you have learned to use the debugging tools in Chrome De
 
 Below is an animation showing how the application should look when complete and how the event listeners should work.
 
-<img src="https://raw.githubusercontent.com/nashville-software-school/client-side-mastery/master/book-4-deshawns-dog-walking/chapters/images/debugging-events-assessment.gif" width="700px">
+<img src="./images/debugging-events-assessment.gif" width="700px">
 
 ## Setup
 
