@@ -54,51 +54,51 @@ const database = {
         id: 1,
         name: "Christan Swindles",
         celebrityId: 6,
-        wish: "Throw the opening pitch at a baseball game"
+        wish: "Perform a perfect 10 routine at the Olympics!"
     }, {
         id: 2,
         name: "Findlay Dumini",
         celebrityId: 8,
-        wish: "Drive a race car"
+        wish: "Make a buzzer-beater shot to win the game!"
     }, {
         id: 3,
         name: "Micheil Guerrazzi",
         celebrityId: 9,
-        wish: "Visit the White House"
+        wish: "Skate at half time at a professional hockey game!"
     }, {
         id: 4,
         name: "Karine McKennan",
         celebrityId: 6,
-        wissh: "Drive a race car"
+        wissh: "Watch a stick the landing on a super difficult vault!"
     }, {
         id: 5,
         name: "Cissy Weavers",
         celebrityId: 5,
-        wish: "Disneyworld trip and spend the day with Mickey Mouse"
+        wish: "Compete in a national gymnastics championship!"
     }, {
         id: 6,
         name: "Bendick Standbrooke",
         celebrityId: 2,
-        wish: "Sing a song with Taylor Swift and pet her cats"
+        wish: "Make a buzzer-beater shot at halftime to win the top prize!"
     }, {
         id: 7,
         name: "Ethyl Copnell",
         celebrityId: 4,
-        wish: "Dunk on LeBron James"
+        wish: "Catch a game-winning fly ball in the outfield!"
     }, {
         id: 8,
         name: "Elisha Betchley",
         celebrityId: 2,
-        wissh: "Ride on a helicopter"
+        wish: "See the Harlem Globetrotters perform live together!"
     }, {
         id: 9,
         name: "Enrica Mathivon",
         celebrityId: 1,
-        wish: "Take care of ponies on a farm and spend the whole night riding one"
+        wish: "Laugh together as the mascot shows off its wild dance moves!"
     }, {
         id: 10,
         name: "Humfrid Madner",
         celebrityId: 4,
-        wish: "Put out a fire as a fireman after riding on the truck with the siren on"
+        wish: "Catch a foul ball at a Major League game!"
     }]
 }
